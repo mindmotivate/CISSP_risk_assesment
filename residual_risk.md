@@ -9,7 +9,7 @@
 
 | Risk Category      | Risk ID | Risk Description                                                 | Impact | Probability | Risk Score | Common Mitigation Steps                                       | Residual Risk                                           |
 |--------------------|---------|-------------------------------------------------------------------|--------|-------------|------------|---------------------------------------------------------------|---------------------------------------------------------|
-| Health and Safety  | 1       | Choking on a turkey bone during Thanksgiving dinner in the office | High   | Possible    | 8          | - Provide training on how to properly carve and eat turkey.    | Continuous awareness and first aid readiness.             |
+| Health and Safety  | 1       | Choking on a turkey bone during Thanksgiving dinner in the office | High   | Possible    | 8          | - Provide training on how to properly carve and eat turkey. Ensure you have individuals trained in first aid present   | Continuous awareness and first aid readiness.             |
 
 #### Residual Risks:
 
@@ -22,7 +22,7 @@
 
 | Risk Category      | Risk ID | Risk Description                                  | Impact       | Probability | Risk Score | Common Mitigation Steps                                       | Residual Risk                                           |
 |--------------------|---------|----------------------------------------------------|--------------|-------------|------------|---------------------------------------------------------------|---------------------------------------------------------|
-| Personal Safety    | 2       | Possibility of being drugged in Colombia           | Catastrophic | Possible    | 8          | - Avoid drinking beverages from unknown sources.                | Staying alert remains crucial despite precautions.      |
+| Personal Safety    | 2       | Possibility of being drugged in Colombia           | Catastrophic | Possible    | 8          | - Avoid drinking beverages from unknown sources. Avoid using tinder in columbia               | Staying alert remains crucial despite precautions.      |
 
 #### Residual Risks:
 
