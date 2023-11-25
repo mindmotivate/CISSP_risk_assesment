@@ -17,7 +17,7 @@ Let's try to apply this to the two scenarios that Theo proposed:
 
 | Risk Category      | Risk ID | Risk Description                                                 | Impact | Probability | Risk Score | Common Mitigation Steps                                       | Residual Risk                                           |
 |--------------------|---------|-------------------------------------------------------------------|--------|-------------|------------|---------------------------------------------------------------|---------------------------------------------------------|
-| Health and Safety  | 1       | Choking on a turkey bone during Thanksgiving dinner in the office | High   | Possible    | 8          | - Provide training on how to properly carve and eat turkey. Ensure you have individuals trained in first aid present   | Continuous awareness and first aid readiness.             |
+| Health and Safety  | 1       | Choking on a turkey bone during Thanksgiving dinner | High   | Possible    | 8          | - Provide training on how to properly carve and eat turkey. Ensure you have individuals trained in first aid present   | Continuous awareness and first aid readiness.             |
 
 #### Residual Risks:
 
